@@ -5,8 +5,8 @@
 \alias{BarDiscrete}
 \title{Create bar charts for discrete features}
 \usage{
-plot_bar(data, with = NULL, maxcat = 50, order_bar = TRUE, title = NULL,
-  ggtheme = theme_gray(), theme_config = list())
+plot_bar(data, with = NULL, maxcat = 50, order_bar = TRUE,
+  title = NULL, ggtheme = theme_gray(), theme_config = list())
 }
 \arguments{
 \item{data}{input data}
